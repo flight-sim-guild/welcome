@@ -1,11 +1,27 @@
 # The Bevy Flight Sim Guild
 
-This is a guild 
+This is a guild formed around the Open Source Flight Sim manifesto. You can
+find it under [manifesto.md](./manifesto.md).
 
-You can find the manifesto that started the idea under [manifesto.md](./manifesto.md).
+The proposition of the manifesto is that using open source allows us to tap
+into synergies between ourselves and outside groups in a way that closed-source
+or invitation-only sims can never do, by definition.
 
-This repo tracks a list of signatories, and projects and bevy related crates
-that want to collaborate to the stated goal. Low buy-in, easy discoverability.
+We want to scale up the number of developers, and because of the
+Amdahl/Brooks/Conway laws, "the implementation APIs will look like the
+communication structure of the devs working on it". 
+
+For us this means dozens to a hundred devs working, sharing, and learning
+asynchronously in a touch-and-go way, that cannot communicate effectively as a
+big group. So the code with be in small modules with defined APIs, and
+communication will be in open forums like the Bevy discord. Just like the Bevy
+ecosystem, which we think has proven true as a way of working (hell, they are
+creating a good a game engine, which is arguably more complicated that what we
+want to do). To achieve that social way of working, ECS is a good architecture.
+
+The guild feels that this means we need to pull off a mini-Bevy-like community
+inside of the Bevy community. A guild of some sort, not a hard clique. Low
+buy-in, easy discoverability, open conversations, iteration.
 
 ### Where to talk for now
 
@@ -13,14 +29,14 @@ You can come talk to the [Bevy discord for now](https://discord.com/channels/691
 
 ### Signatories
 
-Here is a list of signatories of the manifesto. You can add yourself in a new
-line with a PR.
+Here is a list of people that want to express support to this guild. You can
+add yourself in a new line with a PR.
 
 - [@viccuad](https://github/viccuad)
 
 ### Projects
 
-Here is a list of projects and repos that want to be under the umbrella of this
+Here is a list of projects and repos that want to express support to this
 guild.
 
 If you are a maintainer of one of those, please add a badge on your repo to
