@@ -1,9 +1,8 @@
-# The Open Source Flight Sim Manifesto
+# The Bevy Flight Sim Guild
 
-You can find the manifesto under [manifesto.md](./manifesto.md).
+This is a guild 
 
-Lacking critical mass and a proper org (with a proper name), the info sits here
-for now. This repo can be moved to an org later on. 
+You can find the manifesto that started the idea under [manifesto.md](./manifesto.md).
 
 This repo tracks a list of signatories, and projects and bevy related crates
 that want to collaborate to the stated goal. Low buy-in, easy discoverability.
@@ -22,13 +21,13 @@ line with a PR.
 ### Projects
 
 Here is a list of projects and repos that want to be under the umbrella of this
-manifesto.
+guild.
 
 If you are a maintainer of one of those, please add a badge on your repo to
 show that you are a signatory (and to link back here), and open a PR to add
 yourself to this list.
 
-Badge: [![Open Source Flight Sim Manifesto](https://img.shields.io/badge/part_of-open_source_flight_sim_manifesto-lightblue?labelColor=4DA8DA?style=for-the-badge)](https://github.com/viccuad/open-source-flight-sim-manifesto)
+Badge: [![bevy flight sim guild](https://img.shields.io/badge/part_of-bevy_flight_sim_guild-lightblue?labelColor=4DA8DA?style=for-the-badge)](https://github.com/flight-sim-guild/welcome)
 
 
 | NAME                                                      | STATUS       | DESCRIPTION                                                 |
